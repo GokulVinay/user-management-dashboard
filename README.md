@@ -22,7 +22,7 @@ A simple web application to manage users, allowing users to view, add, edit, and
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/user-management-dashboard.git
+git clone https://github.com/GokulVinay/user-management-dashboard.git
 cd user-management-dashboard
 ```
 
