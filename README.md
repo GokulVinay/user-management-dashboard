@@ -46,7 +46,6 @@ This will start the React application on `http://localhost:3000`.
 
 ### Viewing Users
 The users will be fetched from the JSONPlaceholder API and displayed in a list format, showing the following details:
-- ID
 - First Name
 - Last Name
 - Email
